@@ -1,32 +1,19 @@
-# Prerequisites
-*.d
+# Personal: /~文件; ~文件或目录; ~/目录
+/vscode_git_test.code-workspace
+empty/
 
 # Compiled Object files
-*.slo
-*.lo
 *.o
 *.obj
 
-# Precompiled Headers
-*.gch
-*.pch
-
 # Compiled Dynamic libraries
 *.so
-*.dylib
 *.dll
 
-# Fortran module files
-*.mod
-*.smod
-
 # Compiled Static libraries
-*.lai
-*.la
 *.a
 *.lib
 
 # Executables
 *.exe
 *.out
-*.app
