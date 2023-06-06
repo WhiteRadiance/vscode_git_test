@@ -1,6 +1,6 @@
 # Personal: /~文件; ~文件或目录; ~/目录
 /vscode_git_test.code-workspace
-empty/
+.vscode/
 
 # Compiled Object files
 *.o
